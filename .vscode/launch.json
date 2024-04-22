@@ -1,0 +1,117 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "todone",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "todone (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "todone (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "app_ui",
+            "cwd": "packages\\app_ui",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "app_ui (profile mode)",
+            "cwd": "packages\\app_ui",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "app_ui (release mode)",
+            "cwd": "packages\\app_ui",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "language_api",
+            "cwd": "packages\\language_api",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "language_api (profile mode)",
+            "cwd": "packages\\language_api",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "language_api (release mode)",
+            "cwd": "packages\\language_api",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "local_storage_todos_api",
+            "cwd": "packages\\local_storage_todos_api",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "local_storage_todos_api (profile mode)",
+            "cwd": "packages\\local_storage_todos_api",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "local_storage_todos_api (release mode)",
+            "cwd": "packages\\local_storage_todos_api",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "todos_api",
+            "cwd": "packages\\todos_api",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "todos_repository",
+            "cwd": "packages\\todos_repository",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "username",
+            "cwd": "packages\\username",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "username (profile mode)",
+            "cwd": "packages\\username",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "username (release mode)",
+            "cwd": "packages\\username",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}

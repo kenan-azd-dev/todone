@@ -1,0 +1,52 @@
+{
+    "@@locale": "ar",
+    "onBoardingWelcome": "أهلًا وسهلًا!",
+    "onBoardingWelcomeMessage": "أنت على وشك البدء باستخدام ToDone، ولكن أولًا فلنقم بإعداده.",
+    "onBoardingPreferences": "اختر تفضيلاتك",
+    "onBoardingPreferencesMessage": "يمكنك اختيار لغتك أو وضع التطبيق المفضلين لديك.",
+    "onBoardingName": "ماذا يجب أن ندعوك؟",
+    "onBoardingNameMessage": "نود أن نكون مثل أصدقائك!",
+    "onBoardingAllSet": "كل شيء جاهز!",
+    "onBoardingEnjoyApp": "استمتع باستخدام التطبيق.",
+    "onBoardingNext": "التالي",
+    "settingsLabel": "الإعدادات",
+    "settingsEditUsernameEmptyError": "لا يمكن أن يكون فارغًا",
+    "settingsEditUsernameShortError": "قصير جدًا",
+    "settingsEditUsernameLabel": "الاسم أو اللقب",
+    "settingsChangeLanguage": "تغيير اللغة",
+    "settingsChangeTheme": "تغيير الوضع",
+    "todosOverviewFilterTooltip": "تصفية",
+    "todosOverviewFilterAll": "الكل",
+    "todosOverviewFilterActiveOnly": "النشطة فقط",
+    "todosOverviewFilterCompletedOnly": "المكتملة فقط",
+    "todosOverviewMarkAllCompleteButtonText": "إتمام الكل",
+    "todosOverviewClearCompletedButtonText": "مسح المكتملة",
+    "todosOverviewEmptyText": "لم يتم العثور على مهام مطابقة للمرشحات المحددة.",
+    "todosOverviewTodoDeletedSnackbarText": "تم حذف المهمة \"{todoTitle}\".",
+    "@todosOverviewTodoDeletedSnackbarText": {
+        "placeholders": {
+            "todoTitle": {
+                "description": "The title of the todo that was deleted"
+            }
+        }
+    },
+    "todosOverviewUndoDeletionButtonText": "تراجع",
+    "todosOverviewErrorSnackbarText": "حدث خطأ أثناء تحميل المهام.",
+    "todosOverviewOptionsTooltip": "خيارات",
+    "todosOverviewOptionsMarkAllComplete": "إتمام الكل",
+    "todosOverviewOptionsMarkAllIncomplete": "إلغاء إتمام الكل",
+    "todosOverviewOptionsClearCompleted": "مسح المكتملة",
+    "todoDetailsAppBarTitle": "تفاصيل المهمة",
+    "todoDetailsDeleteButtonTooltip": "حذف",
+    "todoDetailsEditButtonTooltip": "تعديل",
+    "editTodoEditAppBarTitle": "تعديل المهمة",
+    "editTodoAddAppBarTitle": "إضافة مهمة",
+    "editTodoTitleLabel": "العنوان",
+    "editTodoDescriptionLabel": "الوصف",
+    "editTodoDueDate": "التاريخ",
+    "editTodoDueTime": "الوقت",
+    "editTodoSaveButtonTooltip": "حفظ التغييرات",
+    "statsAppBarTitle": "الإحصائيات",
+    "statsCompletedTodoCountLabel": "المهام المكتملة",
+    "statsActiveTodoCountLabel": "المهام النشطة"
+}

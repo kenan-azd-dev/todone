@@ -1,0 +1,24 @@
+name: local_storage_todos_api
+description: "A Flutter implementation of the TodosApi that uses local storage."
+version: 0.0.1
+publish_to: none
+
+environment:
+  sdk: '>=3.3.3 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  meta: ^1.11.0
+  path: ^1.9.0
+  rxdart: ^0.27.7
+  shared_preferences: ^2.2.3
+  sqflite: ^2.3.3
+  todos_api:
+    path: ../todos_api
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0

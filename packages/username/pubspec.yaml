@@ -1,0 +1,21 @@
+name: username
+description: "A repository and a business logic container for username."
+version: 0.0.1
+publish_to: none
+
+environment:
+  sdk: '>=3.3.3 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  bloc: ^8.1.4
+  equatable: ^2.0.5
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.2.3
+
+dev_dependencies:
+  bloc_test: ^9.1.7
+  flutter_test:
+    sdk: flutter
+  mockito: ^5.4.4
